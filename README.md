@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left"> - HTML <br> - CSS <br> - JavaScript <br> - TypeScript <br> - React</p>
+-**HTML**   -**CSS**  - **JavaScript**  - **TypeScript** - **React**
 
 ###
 
