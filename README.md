@@ -2,15 +2,15 @@
 
 ###
 
-<p align="left">My name is Pedro and I'm a ..., from ....</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
 
--**HTML**   -**CSS**  - **JavaScript**  - **TypeScript** - **React**
+- **HTML**   
+- **CSS**
+- **JavaScript**
+- **TypeScript**
+- **React**
 
 ###
 
